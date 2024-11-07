@@ -1,33 +1,25 @@
-food delivery Web Application
+Food Delivery Fullstack (MERN)
 
-This is a public eCommerce web application built using the MERN (MongoDB, Express.js, React, Node.js) stack.
+This is a fullstack food delivery application built with the MERN stack (MongoDB, Express.js, React, Node.js). The app allows users to browse menus, place orders, and manage their profiles, while admin users can manage food items and orders.
 
-Table of Contents
-
-=>Features
-=>Technologies
-=>Installation 
-=>Usage
-=>API Endpoints 
-=>Contributing
-
-Features:
-
-User authentication and authorization (login, signup)
-
-Product listing with category filtering and search
-
-Shopping cart with dynamic updates
-
-Order history and order tracking for users
-
+User Features:
+Browse food menu
+Place orders and view order history
+User authentication (sign-up, login, and profile management)
+Admin Features:
+Manage food menu (add, edit, delete items)
+View and manage orders
+User management (view users)
+Technologies Used
+Frontend: React, React Router,  
+Backend: Node.js, Express.js
+Database: MongoDB
+payment method: stripe
+Authentication: JWT (JSON Web Tokens)
+Styling: CSS
+API: RESTful API
 Admin dashboard to manage products, users, and orders
-
 Secure payment processing integration
 
-Technologies:
 
-Frontend: React, React Router, Axios
-Backend: Node.js, Express.js 
-Database: MongoDB 
-Authentication: JSON Web Tokens (JWT)
+
