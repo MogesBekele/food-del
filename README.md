@@ -5,26 +5,37 @@ This is a fullstack food delivery application built with the MERN stack (MongoDB
 User Features:
 
 =>Browse food menu,
+
 Place orders and view order history,
+
 User authentication (sign-up, login, and profile management),
 
 
 =>Admin Features:
 
 Manage food menu (add, edit, delete items)
+
 View and manage orders
+
 User management (view users)
 
 
-=>Technologies Used
+=>Technologies Used:
 
 Frontend: React, React Router,  
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 payment method: stripe
+
 Authentication: JWT (JSON Web Tokens)
+
 Styling: CSS
+
 API: RESTful API
+
 Admin dashboard to manage products, users, and orders
 Secure payment processing integration
 
